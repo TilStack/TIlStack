@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://zerofiltre.tech/articles](https://zerofiltre.tech/articles)
 
-- 💬 Ask me about **flutter, angular , Node.js**
+- 💬 Ask me about **flutter, angular , NodeJS(Express and NestJS)**
 
 - 📫 How to reach me **israel01tientcheu@gmail.com**
 
