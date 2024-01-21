@@ -17,8 +17,5 @@
 ## Wakatime Time Work
 [![wakatime](https://wakatime.com/badge/user/9c3fecf7-74a1-43b4-9ebe-2ceb9bc27297.svg)](https://wakatime.com/@9c3fecf7-74a1-43b4-9ebe-2ceb9bc27297)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TILStack&theme=default&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=TILStack&theme=default&hide_border=false)<br/>
-
 
 
