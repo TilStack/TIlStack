@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TIENTCHEU Israel ( TIL Stack. )</h1>
-<h3 align="center">A passionate frontend and backend developper</h3>
+<h3 align="center">A passionate frontend and backend mobile developper</h3>
 
 - 📝 I regularly write articles on [https://zerofiltre.tech/articles](https://zerofiltre.tech/articles)
 
