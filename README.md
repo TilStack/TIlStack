@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm TIENTCHEU Israel ( TIL Stack. )</h1>
 <h3 align="center">A passionate frontend and backend developper</h3>
 <h2 align="center">Logo</h2>
-![tilwhite](https://github.com/TilStack/TIlStack/assets/75549586/52881a85-f5a6-4c28-ac0c-47f741fdebbf)
+![tilwhite](https://github.com/TilStack/TIlStack/assets/75549586/828d6694-9dca-43bb-9674-a264b4ce4424)
+
 
 
 - 📝 I regularly write articles on [https://zerofiltre.tech/articles](https://zerofiltre.tech/articles)
