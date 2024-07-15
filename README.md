@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm TIENTCHEU Israel ( TIL Stack. )</h1>
 <h3 align="center">A passionate frontend and backend mobile developper</h3>
 
-- 📝 I regularly write articles on [https://zerofiltre.tech/articles](https://zerofiltre.tech/articles)
+- I regularly write articles on [https://zerofiltre.tech/articles](https://zerofiltre.tech/articles)
 
-- 💬 Ask me about **flutter, angular , NodeJS(Express and NestJS)**
+- Ask me about **flutter, angular , NodeJS(Express and NestJS)**
 
-- 📫 How to reach me **israel01tientcheu@gmail.com**
+- How to reach me **israel01tientcheu@gmail.com**
 
 
 ## 🌐 Socials:
