@@ -5,7 +5,7 @@
 
 - Ask me about **flutter, angular , NodeJS(Express and NestJS)**
 
-- How to reach me **israel01tientcheu@gmail.com**
+- How to reach me **israel01tientcheu@gmail.com** and **tientcheuisrael@gmail.com**
 
 
 ## 🌐 Socials:
