@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm TIENTCHEU Israel ( TIL Stack. )</h1>
 <h3 align="center">A passionate frontend and backend mobile developper</h3>
 
+![b5cd9148-d2cd-405f-b09c-6e783097bca1](https://github.com/user-attachments/assets/9844b319-66eb-4ee4-8b0e-012130d3d3b8)
+![c9efed25-ea9f-48fe-98a8-b9521d69d376](https://github.com/user-attachments/assets/941bd616-87eb-4486-9305-0c33c38f8bb5)
+
+
 - I regularly write articles on [https://zerofiltre.tech/articles](https://zerofiltre.tech/articles)
 
 - Ask me about **flutter, angular , NodeJS(Express and NestJS)**
