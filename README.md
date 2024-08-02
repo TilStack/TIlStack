@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm TIENTCHEU Israel ( TIL Stack. )</h1>
 <h3 align="center">A passionate frontend and backend mobile developper</h3>
 
-![b5cd9148-d2cd-405f-b09c-6e783097bca1](https://github.com/user-attachments/assets/9844b319-66eb-4ee4-8b0e-012130d3d3b8)
-![c9efed25-ea9f-48fe-98a8-b9521d69d376](https://github.com/user-attachments/assets/941bd616-87eb-4486-9305-0c33c38f8bb5)
-
-
 - I regularly write articles on [https://zerofiltre.tech/articles](https://zerofiltre.tech/articles)
 
 - Ask me about **flutter, angular , NodeJS(Express and NestJS)**
 
 - How to reach me **israel01tientcheu@gmail.com** and **tientcheuisrael@gmail.com**
 
+##Logo
+![b5cd9148-d2cd-405f-b09c-6e783097bca1](https://github.com/user-attachments/assets/9844b319-66eb-4ee4-8b0e-012130d3d3b8)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/til_stack) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/israel-tientcheu-12278b298) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@israel01tientcheu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/leicanor_) 
