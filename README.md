@@ -29,7 +29,7 @@ Je conçois et développe des applications **mobiles** (Flutter / Dart) et **web
 - 💬 Demandez-moi des infos sur **Flutter, Angular, Node.js (Express et NestJS)**
 - 📫 Me contacter : **israel01tientcheu@gmail.com** · **tientcheuisrael@gmail.com**
 
-## 🚀 Projets en vedette
+## Projets en vedette
 
 | Projet | Description | Stack |
 |---|---|---|
