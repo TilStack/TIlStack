@@ -35,9 +35,11 @@ Je conçois et développe des applications **mobiles** (Flutter / Dart) et **web
 |---|---|---|
 | [**tilstack.me**](https://github.com/TilStack/myportofoliov2) | Mon portfolio personnel | Angular 20 · TypeScript |
 | [**Tilstackcont**](https://github.com/TilStack/Tilstackcont) | Ma page de liens, bilingue FR/EN, thème clair/sombre | Angular 20 |
-| [**fjgame**](https://github.com/TilStack/fjgame) | Jeu de familles bibliques multijoueur | Flutter · Firebase |
-| [**tontine-api**](https://github.com/TilStack/tontine-api) | API de gestion de tontines : saisons, cycles, cotisations, caisse, rôles | Express · TypeScript · Firestore |
-| [**my-claude-skills**](https://github.com/TilStack/my-claude-skills) | Bibliothèque de skills Claude personnalisés | Markdown |
+| **Cagnotte** 🔒 | Application de cagnotte : frontend web et API conteneurisée | Angular 15 · NestJS · TypeScript · Docker |
+| **Levefly** 🔒 | Application mobile de réservation de vols d'avion | Flutter · Dart |
+| **Séla Cantique** 🔒 | Application mobile de cantiques | Flutter · Dart |
+
+<sub>🔒 Projets privés : le code n'est pas public.</sub>
 
 ## 💻 Tech Stack
 
