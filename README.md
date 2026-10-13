@@ -29,7 +29,7 @@ Je conçois et développe des applications **mobiles** (Flutter / Dart) et **web
 - 💬 Demandez-moi des infos sur **Flutter, Angular, Node.js (Express et NestJS)**
 - 📫 Me contacter : **israel01tientcheu@gmail.com** · **tientcheuisrael@gmail.com**
 
-## Projets en vedette
+## 🚀 Projets en vedette
 
 | Projet | Description | Stack |
 |---|---|---|
@@ -38,8 +38,7 @@ Je conçois et développe des applications **mobiles** (Flutter / Dart) et **web
 | **Cagnotte** 🔒 | Application de cagnotte : frontend web et API conteneurisée | Angular 15 · NestJS · TypeScript · Docker |
 | **Levefly** 🔒 | Application mobile de réservation de vols d'avion | Flutter · Dart |
 | **Séla Cantique** 🔒 | Application mobile de cantiques | Flutter · Dart |
-
-<sub>🔒 Projets privés : le code n'est pas public.</sub>
+| **Otadex** 🔒 | Encyclopédie anime & manga | Flutter · Dart |
 
 ## 💻 Tech Stack
 
