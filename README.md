@@ -6,7 +6,7 @@
 </td>
 <td valign="middle">
 
-<h1>TIENTCHEU Israel <sub>· TIL Stack</sub></h1>
+<h1>TIENTCHEU Israel <sub>· TilStack</sub></h1>
 <h3>Développeur full-stack mobile &amp; web</h3>
 <p>Flutter · Angular · Node.js (Express / NestJS) · Firebase</p>
 <p>📍 Douala, Cameroun 🇨🇲</p>
