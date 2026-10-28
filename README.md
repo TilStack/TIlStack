@@ -21,7 +21,7 @@
 </table>
 </div>
 
-## 👋 À propos
+## À propos
 
 Je conçois et développe des applications **mobiles** (Flutter / Dart) et **web** (Angular, Node.js), du front jusqu'à l'API et au déploiement. J'utilise aussi l'**IA** pour automatiser mon travail : skills Claude personnalisés, génération de vidéos, traitement d'images par lots.
 
@@ -29,7 +29,7 @@ Je conçois et développe des applications **mobiles** (Flutter / Dart) et **web
 - 💬 Demandez-moi des infos sur **Flutter, Angular, Node.js (Express et NestJS)**
 - 📫 Me contacter : **israel01tientcheu@gmail.com** · **tientcheuisrael@gmail.com**
 
-## 🚀 Projets en vedette
+## Projets en vedette
 
 | Projet | Description | Stack |
 |---|---|---|
